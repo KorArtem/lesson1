@@ -3,10 +3,9 @@ import s from "./Navbar.module.css"
 
 const Navbar = () =>{
     return(
-       <nav className="">
-            <div>
-                
-            </div>
+       <nav className={s.Navbar}>
+            <div>Profile</div>
+            <div>Messages</div>
        </nav>
         
     )

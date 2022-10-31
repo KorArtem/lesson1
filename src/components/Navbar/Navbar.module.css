@@ -1,0 +1,11 @@
+.Navbar{
+    width: 10%;
+    min-width: 100px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}
+
+.Navbar div{
+    margin: 5px 0 5px 5px;
+}
