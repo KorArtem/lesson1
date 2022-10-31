@@ -1,8 +1,8 @@
 .header{
-    padding-bottom: 40px;
-    background-color: aqua;    
+    grid-area: h;
+    background-color: aqua;
+    height: 50px;
 }
-.header img{
-    height: 20px;
+.header img {
     width: 20px;
 }

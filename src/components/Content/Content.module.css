@@ -1,0 +1,7 @@
+.Content{
+    grid-area: c;
+    background-image: url(https://trendblog.net/wp-content/uploads/2022/01/backlit.jpg)  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
