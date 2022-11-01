@@ -2,5 +2,13 @@
     
   grid-area: n;
   background-color: blueviolet;
+  padding-left: 10px;
+  padding-top: 10px;
+  
+}
+
+.Navbar > div{
+  max-width: 100px;
+  margin: 0 auto;
 }
 
